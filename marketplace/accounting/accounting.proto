@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package marketplace.accounting;
+
+message Accounting { int64 id = 1; }

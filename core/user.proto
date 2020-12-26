@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package core;
+
+message User { int64 id = 1; }

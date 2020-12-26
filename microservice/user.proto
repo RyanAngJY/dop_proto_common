@@ -1,5 +1,5 @@
 syntax = "proto3";
 
-package core;
+package microservice;
 
 message User { int64 id = 1; }
